@@ -1,7 +1,7 @@
 # ios_test_digital14
 Coding Test for Digital14
 
-Assignment created in swift 5.
+Assignment created in swift 5 and XCode 12.4.
 
 Min deployment target is iOS 13.
 
