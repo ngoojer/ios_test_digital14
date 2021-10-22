@@ -1,9 +1,9 @@
 # ios_test_digital14
 Coding Test for Digital14
 
-Assignment created in swift 5
-Min deployment target is iOS 13
-Not covered local storage 
+Assignment created in swift 5.
+
+Min deployment target is iOS 13.
 
 Assignment covers the below requirements
 1. Write a type ahead against the Seat Geek API  **DONE**
