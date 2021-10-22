@@ -16,9 +16,9 @@ enum NetworkError: Error, LocalizedError {
     
     var errorDescription: String?{
         switch self {
-        case .noIntenet: return "No Internet conection"
-        case .invalidRequest: return "No internet connection"
-        case .invalidResponse: return "Invalid reponse"
+        case .noIntenet: return "No Internet connection"
+        case .invalidRequest: return "Invalid request."
+        case .invalidResponse: return "Invalid response"
         case .dataLoadingError(let code, _): return "Error Code = \(code)"
         case .jsonDecodingError: return "No matching record."
         }
