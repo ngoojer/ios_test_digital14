@@ -1,0 +1,22 @@
+PODS:
+  - MotionToastView (0.1.10)
+  - SDWebImage (5.6.1):
+    - SDWebImage/Core (= 5.6.1)
+  - SDWebImage/Core (5.6.1)
+
+DEPENDENCIES:
+  - MotionToastView
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - MotionToastView
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  MotionToastView: e6e03c88141c2da252cce3f5c4512e76281b4754
+  SDWebImage: 7edb9c3ea661e77a66661f7f044de8c1b55d1120
+
+PODFILE CHECKSUM: d562f35f2e1586c22e4dd39bbdafa59f100f7992
+
+COCOAPODS: 1.8.4
